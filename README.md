@@ -18,13 +18,13 @@ For each task the key information we would like to record is:
 2. Which LLM are you using to assist
 3. What your level of comfort would be in acheiving this task unaided (could do it easily, would need a bit of help, no idea where to start etc)
 4. For each prompt you give the LLM we want:
-  a. The prompt you gave
-  b. The answer you got (at least the part which you acted on if it's long)
-  c. What happened when you followed the advice - did it work, fail, give an error etc.
+  * The prompt you gave
+  * The answer you got (at least the part which you acted on if it's long)
+  * What happened when you followed the advice - did it work, fail, give an error etc.
 5. At the end we want to know
-  a. Do you think you completed the task successully?
-  b. Do you think the LLM helped, or would you have found it easier without, or just using conventional web searches?
-  c. Would you do anything different in your prompting if you were to do this again?
+  * Do you think you completed the task successully?
+  * Do you think the LLM helped, or would you have found it easier without, or just using conventional web searches?
+  * Would you do anything different in your prompting if you were to do this again?
 
 
 ## Things to consider
